@@ -1,1 +1,1 @@
-https://github.com/ganeshtaduri/RealTimeBigData_Labs/wiki/Lab1-Assignment
+Lab1 Assignment: https://github.com/ganeshtaduri/RealTimeBigData_Labs/wiki/Lab1-Assignment
